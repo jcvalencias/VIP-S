@@ -28,7 +28,7 @@ The process involves both the dairy Real and Monthly Forecast information of VIP
 
 •	BIG C: Category (Home Care / Personal Care / Foods / Refreshment)
 
-•	BP: Business Plan, first sign-off official of next year budget.
+•	BP: Business Plan, first official sign-off of next year budget.
 
 •	BUYING SAVING: Savings related to the procuremt process with the material suppliers.
 
